@@ -1,4 +1,4 @@
-// create web server
+// Create web server
 var server = http.createServer(app);
 
 // start web server
